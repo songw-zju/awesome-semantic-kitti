@@ -1,5 +1,5 @@
 # Awesome SemanticKitti
-A list of papers related to SemanticKITTI dataset that I have read
+A list of papers related to SemanticKITTI dataset that I have read.
 
 ## TO DO
 
